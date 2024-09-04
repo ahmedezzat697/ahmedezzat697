@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mando</h1>
+#Ahmed Mando
 
 ### ![Ahmed Text](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5B3DFC&width=435&lines=Hi+there%2C+I%27m+Ahmed+Mando+%F0%9F%91%8B) 
 

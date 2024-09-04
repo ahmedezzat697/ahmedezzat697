@@ -1,5 +1,7 @@
 # Ahmed Mando
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Ahmed+Mando%F0%9F%91%8B)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedezzat697&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedezzat697" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedezzat697" alt="ahmedezzat697" /></a> </p>

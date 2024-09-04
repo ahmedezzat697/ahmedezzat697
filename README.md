@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/994747100157972560?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20Omar)](https://discord.com/users/994747100157972560)
+[![Discord Presence](https://lanyard.cnrad.dev/api/994747100157972560?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20Ahmed)](https://discord.com/users/994747100157972560)
 <p>
-   <a href="https://discord.com/channels/@me/994747100157972560"> <img src="https://discord.c99.nl/widget/theme-3/994747100157972560" alt="contact mee"></a>
+   <a href="https://discord.com/channels/@me/994747100157972560"> <img src="https://discord.c99.nl/widget/theme-3/994747100157972560" alt="contact me"></a>
 <p>
 
 </div>

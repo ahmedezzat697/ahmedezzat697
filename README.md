@@ -17,6 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedezzat697&show_icons=true&locale=en&layout=compact" alt="ahmedezzat697" /></p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
 <p>&nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedezzat697&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedezzat697&theme=city_lights" width="100%"/>

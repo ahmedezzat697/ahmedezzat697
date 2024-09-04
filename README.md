@@ -2,6 +2,15 @@
 
 ### ![Ahmed Text](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5B3DFC&width=435&lines=Hi+there%2C+I%27m+Ahmed+Mando+%F0%9F%91%8B) 
 
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/994747100157972560?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20Omar)](https://discord.com/users/994747100157972560)
+<p>
+   <a href="https://discord.com/channels/@me/994747100157972560"> <img src="https://discord.c99.nl/widget/theme-3/994747100157972560" alt="contact mee"></a>
+<p>
+
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedezzat697&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedezzat697" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedezzat697" alt="ahmedezzat697" /></a> </p>
